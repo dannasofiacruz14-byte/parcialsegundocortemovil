@@ -40,6 +40,22 @@ lib/
 * **Framework:** Flutter
 * **Componentes clave:** `Scaffold`, `AppBar`, `BottomNavigationBar`, `ListView`, `SingleChildScrollView`, `StatefulWidget`, `StatelessWidget`.
 
+## Cómo ejecutarlo
+
+1. Clona el repositorio:
+```bash
+   git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
+```
+
+3. Instala las dependencias:
+```bash
+   flutter pub get
+```
+3. Ejecuta la app:
+```bash
+   flutter run
+```
+
 
 ## Autor
 
